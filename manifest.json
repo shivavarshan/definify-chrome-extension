@@ -1,0 +1,15 @@
+{
+    "name": "Definify",
+    "version": "1.0.0",
+    "description": "This is a word definition Chrome extension.",
+    "manifest_version": 3,
+    "author": "SATHEESH K",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup": "index.html",
+        "default_title": "Word Definitions"
+    }
+}
